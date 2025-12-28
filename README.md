@@ -201,4 +201,4 @@ This project is licensed under the MIT License.
 
 ---
 
-**Developed with ❤️ for productivity and wellness**
+**Developed with for productivity and wellness**
